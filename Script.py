@@ -1,12 +1,12 @@
 class script(object):
-    START_TXT = """ᎻᏆ✋,
- Ꮖ ᎪᎷ ҒᏆᎡՏͲ ՏᎻϴᏔ ᎷᎪΝᎪᏀᎬᎡ
+    START_TXT = """ᎻᎬᎽ,
+  Ꮖ ᎪᎷ ᎷᏦ 🗡️ Ꮖ ᏟᎪΝ ᏢᎡϴᏙᏆᎠᎬ ᎷϴᏙᏆᎬՏ ᎫႮՏͲ ᎪᎠᎠ ᎷᎬ Ͳϴ ᎽϴႮᎡ ᏀᎡϴႮᏢ 😼
 
-ᎫϴᏆΝ ϴႮᎡ ᏟᎻᎪΝΝᎬᏞ:@firstshowers"""
+"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: First show management bot
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: First show team
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: MK filter bot
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: MK team
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
